@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Document-Processing on </title>
+    <link>//localhost:1313/tags/document-processing/</link>
+    <description>Recent content in Document-Processing on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 21 Jul 2023 17:56:03 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/document-processing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RPA Printing Automation</title>
+      <link>//localhost:1313/posts/rpa-printing-automation/</link>
+      <pubDate>Fri, 21 Jul 2023 17:56:03 +0100</pubDate>
+      <guid>//localhost:1313/posts/rpa-printing-automation/</guid>
+      <description>&lt;h2 id=&#34;purpose&#34;&gt;Purpose&lt;/h2&gt;&#xA;&lt;p&gt;The project delivered a fully automated document printing platform integrated with  ERP systems, supporting millions of inspection and quality certificates annually and ensuring regulatory compliance in large-scale pharmaceutical logistics.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;&#xA;&lt;p&gt;Automatically check for new print tasks on schedule&lt;/p&gt;&#xA;&lt;h2 id=&#34;challenges&#34;&gt;Challenges&lt;/h2&gt;&#xA;&lt;p&gt;The ERP system was developed with an older Builder 7 framework, and some controls are difficult to locate due to missing distinct attributes, requiring innovative solutions.&lt;/p&gt;&#xA;&lt;h2 id=&#34;implementation&#34;&gt;Implementation&lt;/h2&gt;&#xA;&lt;p&gt;The main framework uses visual low-code automation software, combined with Python automation libraries.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

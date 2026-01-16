@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Document-Automation on </title>
+    <link>//localhost:1313/tags/document-automation/</link>
+    <description>Recent content in Document-Automation on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 08 Sep 2023 21:09:33 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/document-automation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contract Generator</title>
+      <link>//localhost:1313/posts/contract-generator/</link>
+      <pubDate>Fri, 08 Sep 2023 21:09:33 +0100</pubDate>
+      <guid>//localhost:1313/posts/contract-generator/</guid>
+      <description>&lt;h2 id=&#34;purpose&#34;&gt;Purpose&lt;/h2&gt;&#xA;&lt;p&gt;Created an internal tool for a human resources company to automatically generate employment contracts from Excel data and a PDF template.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;&#xA;&lt;p&gt;The script reads candidate and contract details from spreadsheets, fills PDF form fields, and exports one finalized contract per employee.&lt;/p&gt;&#xA;&lt;h2 id=&#34;challenges&#34;&gt;Challenges&lt;/h2&gt;&#xA;&lt;h2 id=&#34;several-libraries-seemed-suitable-but-they-all-had-problems-processing-chinese-characters-ultimately-the-issue-was-successfully-solved-using-a-java-pdf-libraryapache-pdfbox&#34;&gt;Several libraries seemed suitable, but they all had problems processing Chinese characters. Ultimately, the issue was successfully solved using a Java PDF library(Apache PDFBox)&lt;/h2&gt;&#xA;&lt;p&gt;Implementation&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

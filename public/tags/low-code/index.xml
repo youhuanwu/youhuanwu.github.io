@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Low-Code on </title>
+    <link>//localhost:1313/tags/low-code/</link>
+    <description>Recent content in Low-Code on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 16 Mar 2023 13:18:54 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/low-code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RPA Social Insurance Automation</title>
+      <link>//localhost:1313/posts/rpa-social-insurance-automation/</link>
+      <pubDate>Thu, 16 Mar 2023 13:18:54 +0100</pubDate>
+      <guid>//localhost:1313/posts/rpa-social-insurance-automation/</guid>
+      <description>&lt;h2 id=&#34;purpose&#34;&gt;Purpose&lt;/h2&gt;&#xA;&lt;p&gt;In a human resources outsourcing company with numerous projects and high employee turnover, social insurance enrollment and cancellation processes were performed frequently.&lt;/p&gt;&#xA;&lt;p&gt;Automated repetitive web operations and data submission on third-party sites.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;&#xA;&lt;p&gt;Monitor emails, read specific email Excel attachments, and open the official website to process social insurance contributions or cancellations.&lt;/p&gt;&#xA;&lt;h2 id=&#34;challenges&#34;&gt;Challenges&lt;/h2&gt;&#xA;&lt;p&gt;The official page updates frequently, and the submission logic may change. Some date controls use a click-to-popup selection style, making automation more challenging.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

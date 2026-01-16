@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 08 Sep 2023 21:09:33 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contract Generator</title>
+      <link>//localhost:1313/posts/contract-generator/</link>
+      <pubDate>Fri, 08 Sep 2023 21:09:33 +0100</pubDate>
+      <guid>//localhost:1313/posts/contract-generator/</guid>
+      <description>&lt;h2 id=&#34;purpose&#34;&gt;Purpose&lt;/h2&gt;&#xA;&lt;p&gt;Created an internal tool for a human resources company to automatically generate employment contracts from Excel data and a PDF template.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;&#xA;&lt;p&gt;The script reads candidate and contract details from spreadsheets, fills PDF form fields, and exports one finalized contract per employee.&lt;/p&gt;&#xA;&lt;h2 id=&#34;challenges&#34;&gt;Challenges&lt;/h2&gt;&#xA;&lt;p&gt;Several libraries seemed suitable, but they all had problems processing Chinese characters. Ultimately, the issue was successfully solved using a Java PDF library(Apache PDFBox)&lt;/p&gt;&#xA;&lt;h2 id=&#34;implementation&#34;&gt;Implementation&lt;/h2&gt;&#xA;&lt;p&gt;Designed PDF form fields to match Excel column headers. Used Apache POI to read spreadsheet data and Apache PDFBox to populate PDF form fields and generate output files.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>RPA Printing Automation</title>
+      <link>//localhost:1313/posts/rpa-printing-automation/</link>
+      <pubDate>Fri, 21 Jul 2023 17:56:03 +0100</pubDate>
+      <guid>//localhost:1313/posts/rpa-printing-automation/</guid>
+      <description>&lt;h2 id=&#34;purpose&#34;&gt;Purpose&lt;/h2&gt;&#xA;&lt;p&gt;The project delivered a fully automated document printing platform integrated with  ERP systems, supporting millions of inspection and quality certificates annually and ensuring regulatory compliance in large-scale pharmaceutical logistics.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;&#xA;&lt;p&gt;Automatically check for new print tasks on schedule&lt;/p&gt;&#xA;&lt;h2 id=&#34;challenges&#34;&gt;Challenges&lt;/h2&gt;&#xA;&lt;p&gt;The ERP system was developed with an older Builder 7 framework, and some controls are difficult to locate due to missing distinct attributes, requiring innovative solutions.&lt;/p&gt;&#xA;&lt;h2 id=&#34;implementation&#34;&gt;Implementation&lt;/h2&gt;&#xA;&lt;p&gt;The main framework uses visual low-code automation software, combined with Python automation libraries.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>RPA Social Insurance Automation</title>
+      <link>//localhost:1313/posts/rpa-social-insurance-automation/</link>
+      <pubDate>Thu, 16 Mar 2023 13:18:54 +0100</pubDate>
+      <guid>//localhost:1313/posts/rpa-social-insurance-automation/</guid>
+      <description>&lt;h2 id=&#34;purpose&#34;&gt;Purpose&lt;/h2&gt;&#xA;&lt;p&gt;In a human resources outsourcing company with numerous projects and high employee turnover, social insurance enrollment and cancellation processes were performed frequently.&lt;/p&gt;&#xA;&lt;p&gt;Automated repetitive web operations and data submission on third-party sites.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;&#xA;&lt;p&gt;Monitor emails, read specific email Excel attachments, and open the official website to process social insurance contributions or cancellations.&lt;/p&gt;&#xA;&lt;h2 id=&#34;challenges&#34;&gt;Challenges&lt;/h2&gt;&#xA;&lt;p&gt;The official page updates frequently, and the submission logic may change. Some date controls use a click-to-popup selection style, making automation more challenging.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
